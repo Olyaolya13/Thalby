@@ -4,3 +4,9 @@
   line-height: 1.17em;
   margin: 0;
 }
+
+@media (max-width: 740px) {
+  .header__title {
+    font-size: 50px;
+  }
+}

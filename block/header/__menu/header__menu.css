@@ -8,3 +8,10 @@
   margin-right: 97px;
   padding: 0;
 }
+
+@media (max-width: 1240px) {
+  .header__menu {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

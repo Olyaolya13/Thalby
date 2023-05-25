@@ -3,3 +3,9 @@
   padding-left: 188px;
   z-index: 1;
 }
+
+@media (max-width: 740px) {
+  .header__main {
+    padding-left: 100px;
+  }
+}

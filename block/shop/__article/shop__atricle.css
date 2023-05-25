@@ -1,3 +1,16 @@
 .shop__atricle {
   max-width: 498px;
 }
+
+@media (max-width: 1095px) {
+  .shop__atricle {
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 795px) {
+  .shop__atricle {
+    text-align: center;
+    margin-top: 15px;
+  }
+}

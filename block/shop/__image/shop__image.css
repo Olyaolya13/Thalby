@@ -3,3 +3,9 @@
   height: 525px;
   padding-right: 50px;
 }
+
+@media (max-width: 795px) {
+  .shop__image {
+    padding-top: 15px;
+  }
+}

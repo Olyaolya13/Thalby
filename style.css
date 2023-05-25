@@ -47,6 +47,8 @@
 
 /*shop*/
 @import url(./block/shop/__article/shop__atricle.css);
+@import url(./block/shop/__card/_opacity30/shop__card_opacity30.css);
+@import url(./block/shop/__card/_opacity60/shop__card_opacity60.css);
 @import url(./block/shop/__card/shop__card.css);
 @import url(./block/shop/__cards/shop__cards.css);
 @import url(./block/shop/__image-reverse/shop__image-reverse.css);

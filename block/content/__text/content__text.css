@@ -5,3 +5,10 @@
   max-width: 692px;
   margin: 0 auto;
 }
+
+@media (max-width: 720px) {
+  .content__text {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

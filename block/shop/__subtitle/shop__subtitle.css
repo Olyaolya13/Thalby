@@ -5,3 +5,9 @@
   margin: 0;
   margin-top: 31px;
 }
+
+@media (max-width: 1095px) {
+  .shop__subtitle {
+    font-size: 30px;
+  }
+}

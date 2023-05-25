@@ -2,3 +2,9 @@
   display: flex;
   align-items: center;
 }
+
+@media (max-width: 1240px) {
+  .header__nav {
+    justify-content: space-around;
+  }
+}

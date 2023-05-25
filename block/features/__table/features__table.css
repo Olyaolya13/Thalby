@@ -5,3 +5,23 @@
   justify-content: center;
   margin: 0;
 }
+
+@media (max-width: 1095px) {
+  .features__table {
+    grid-template-columns: repeat(2, 300px);
+  }
+}
+
+@media (max-width: 750px) {
+  .features__table {
+    grid-template-columns: repeat(2, 200px);
+    gap: 50px;
+  }
+}
+
+@media (max-width: 570px) {
+  .features__table {
+    grid-template-columns: repeat(1, 200px);
+    gap: 50px;
+  }
+}

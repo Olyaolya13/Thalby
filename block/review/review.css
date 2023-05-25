@@ -14,3 +14,21 @@
   background: #f0f0f0;
   z-index: -1;
 }
+
+@media (max-width: 1080px) {
+  .review:before {
+    height: 70%;
+  }
+}
+
+@media (max-width: 693px) {
+  .review:before {
+    height: 80%;
+  }
+}
+
+@media (max-width: 625px) {
+  .review:before {
+    height: 78%;
+  }
+}

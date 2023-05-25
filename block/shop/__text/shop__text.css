@@ -12,3 +12,9 @@
   transition: 0.2s linear;
   cursor: pointer;
 }
+
+@media (max-width: 795px) {
+  .shop__text {
+    margin-bottom: 15px;
+  }
+}

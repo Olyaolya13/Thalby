@@ -3,3 +3,16 @@
   height: 180px;
   margin-right: 204px;
 }
+
+@media (max-width: 1080px) {
+  .footer__about {
+    margin-right: 80px;
+  }
+}
+
+@media (max-width: 750px) {
+  .footer__about {
+    flex-direction: column;
+    height: 50vh;
+  }
+}

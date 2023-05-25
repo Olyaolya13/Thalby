@@ -3,3 +3,15 @@
   padding-bottom: 15px;
   margin-right: 379px;
 }
+/*990px min*/
+@media (max-width: 1290px) {
+  .header__logo {
+    margin-right: 300px;
+  }
+}
+
+@media (max-width: 920px) {
+  .header__logo {
+    margin-right: 0;
+  }
+}
