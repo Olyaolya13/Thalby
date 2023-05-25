@@ -26,4 +26,4 @@ Add
 
 - [Link to Figma layout](https://www.figma.com/file/SZpllQvIuUE27P2s8pbRJQ/Thalby?type=design&node-id=1-2&t=j3TFsvALE7IAIbs0-0)
 
-- [Link to my project]()
+- [Link to my project](https://olyaolya13.github.io/Thalby/)
