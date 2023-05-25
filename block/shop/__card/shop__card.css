@@ -1,0 +1,11 @@
+.shop__card {
+  display: flex;
+  align-items: center;
+  padding-left: 188px;
+  min-height: 652px;
+}
+
+.shop__card:nth-of-type(2) {
+  text-align: right;
+  padding-right: 188px;
+}

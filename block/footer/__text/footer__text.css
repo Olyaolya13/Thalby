@@ -1,0 +1,18 @@
+.footer__text {
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+.footer__text:first-child {
+  margin-top: 36px;
+}
+
+.footer__text:last-child {
+  margin-bottom: 0;
+}
+
+.footer__text:hover {
+  opacity: 0.8;
+  transition: 0.2s linear;
+  cursor: pointer;
+  text-decoration: underline;
+}

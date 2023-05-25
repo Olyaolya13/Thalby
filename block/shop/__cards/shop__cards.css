@@ -1,0 +1,5 @@
+.shop__cards {
+  display: grid;
+  grid-template-columns: repeat(1, auto-fit);
+  margin-top: 51px;
+}

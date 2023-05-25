@@ -1,0 +1,7 @@
+.footer__social {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  padding-left: 177px;
+  max-height: 130px;
+}

@@ -1,0 +1,10 @@
+.footer__media {
+  width: 26px;
+  height: 26px;
+  margin: 44px 23px 136px 0;
+}
+.footer__media:hover {
+  opacity: 0.8;
+  transition: 0.2s linear;
+  cursor: pointer;
+}

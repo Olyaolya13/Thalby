@@ -1,0 +1,6 @@
+.header__content {
+  background-color: #f0efeb;
+  display: flex;
+  position: relative;
+  min-height: 554px;
+}

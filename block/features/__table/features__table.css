@@ -1,0 +1,7 @@
+.features__table {
+  display: grid;
+  grid-template-columns: repeat(3, 338px);
+  gap: 110px 10px;
+  justify-content: center;
+  margin: 0;
+}

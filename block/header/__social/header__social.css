@@ -1,0 +1,11 @@
+.header__social {
+  padding-right: 12px;
+  cursor: pointer;
+}
+.header__social:last-child {
+  padding-right: 0;
+}
+.header__social:hover {
+  opacity: 0.6;
+  transition: 0.2s linear;
+}

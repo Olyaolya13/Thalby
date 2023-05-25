@@ -1,0 +1,14 @@
+.shop__text {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.17em;
+  text-decoration: underline;
+  margin: 0;
+  margin-top: 40px;
+}
+
+.shop__text:hover {
+  opacity: 0.6;
+  transition: 0.2s linear;
+  cursor: pointer;
+}

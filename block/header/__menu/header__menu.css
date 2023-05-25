@@ -1,0 +1,10 @@
+.header__menu {
+  display: flex;
+  justify-content: space-around;
+  width: 423px;
+  list-style-type: none;
+  margin: 0;
+  margin-left: 188px;
+  margin-right: 97px;
+  padding: 0;
+}

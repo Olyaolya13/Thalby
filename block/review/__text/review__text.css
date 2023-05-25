@@ -1,0 +1,16 @@
+.review__text {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17em;
+  text-align: center;
+  text-decoration: underline;
+  margin: 0;
+  margin-top: 44px;
+  padding-bottom: 52px;
+}
+
+.review__text:hover {
+  opacity: 0.6;
+  transition: 0.2 linear;
+  cursor: pointer;
+}

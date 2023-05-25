@@ -1,0 +1,11 @@
+.login__user-info {
+  padding-left: 8px;
+  border: solid 1px #000;
+  height: 35px;
+  width: 153px;
+  margin-right: 45px;
+  margin-bottom: 18px;
+}
+.login__user-info:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,11 @@
+.footer__contact {
+  list-style-type: none;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 51px 72px 12px 0;
+}
+.footer__contact:last-child {
+  margin-right: 0;
+}
