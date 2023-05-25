@@ -286,6 +286,42 @@
           </div>
         </div>
       </section>
+      <section class="login">
+        <h3 class="login__title">Keep in touch</h3>
+        <p class="login__subtitle">
+          Get our travel advice, global views and travel freebies in your inbox
+        </p>
+        <form class="login__user">
+          <input
+            type="text"
+            class="login__user-info login__name"
+            placeholder="First Name"
+            minlength="2"
+            maxlength="30"
+            required
+          />
+          <input
+            type="text"
+            class="login__user-info login__lastname"
+            placeholder="Last Name"
+            minlength="2"
+            maxlength="30"
+            required
+          />
+        </form>
+        <form class="login__user">
+          <input
+            type="email"
+            class="login__user-email login__email"
+            placeholder="Email"
+            minlength="2"
+            maxlength="30"
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+            required
+          />
+        </form>
+        <button class="login__button" type="submit">Subscribe</button>
+      </section>
     </main>
   </body>
 </html>
