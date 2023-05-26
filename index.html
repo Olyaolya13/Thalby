@@ -16,12 +16,30 @@
   <body class="page">
     <header class="header">
       <nav class="header__nav">
-        <ul class="header__menu">
-          <li class="header__text">Shop</li>
-          <li class="header__text">Collections</li>
-          <li class="header__text">Try a Free Guide</li>
-          <li class="header__text">Stories</li>
-        </ul>
+        <div class="header__hamburger-menu">
+          <input
+            class="header__menu__input header__menu__toggle"
+            id="header__menu__toggle"
+            type="checkbox"
+          />
+          <label class="header__menu__btn" for="header__menu__toggle">
+            <span></span>
+          </label>
+          <ul class="header__menu header__menu__box">
+            <li class="header__text">
+              <a class="header__menu__item" href="#">Shop</a>
+            </li>
+            <li class="header__text">
+              <a class="header__menu__item" href="#">Collections</a>
+            </li>
+            <li class="header__text">
+              <a class="header__menu__item" href="#">Try a Free Guide</a>
+            </li>
+            <li class="header__text">
+              <a class="header__menu__item" href="#">Stories</a>
+            </li>
+          </ul>
+        </div>
         <img
           src="./images/header__logo.svg"
           alt="Thaldy logotip"
@@ -29,7 +47,7 @@
         />
 
         <ul class="header__contact">
-          <li class="header__social header__madia">
+          <li class="header__social header__media">
             <img
               src="./images/insta.svg
         "

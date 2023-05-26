@@ -6,3 +6,9 @@
   text-align: center;
   margin-top: 26px;
 }
+
+@media (max-width: 750px) {
+  .features__subtitle {
+    font-size: 20px;
+  }
+}

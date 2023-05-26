@@ -4,3 +4,15 @@
   width: 129px;
   height: 41px;
 }
+
+@media (max-width: 815px) {
+  .footer__logo {
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 620px) {
+  .footer__logo {
+    margin-left: 0;
+  }
+}

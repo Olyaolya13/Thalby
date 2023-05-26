@@ -1,0 +1,18 @@
+@media (max-width: 470px) {
+  /*открытие закрытия гамбургера*/
+  .header__menu__toggle:checked ~ .header__menu__btn > span {
+    transform: rotate(45deg);
+  }
+  .header__menu__toggle:checked ~ .header__menu__btn > span::before {
+    top: 0;
+    transform: rotate(0);
+  }
+  .header__menu__toggle:checked ~ .header__menu__btn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  .header__menu__toggle:checked ~ .header__menu__box {
+    visibility: visible;
+    left: 0;
+  }
+}

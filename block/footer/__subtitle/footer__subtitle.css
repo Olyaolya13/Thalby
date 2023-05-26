@@ -4,3 +4,9 @@
   padding-bottom: 16px;
   padding-top: 10px;
 }
+
+@media (max-width: 620px) {
+  .footer__subtitle {
+    padding-top: 20px;
+  }
+}

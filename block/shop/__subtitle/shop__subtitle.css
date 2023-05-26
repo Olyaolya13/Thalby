@@ -11,3 +11,16 @@
     font-size: 30px;
   }
 }
+
+@media (max-width: 580px) {
+  .shop__subtitle {
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 410px) {
+  .shop__subtitle {
+    font-size: 18px;
+    padding: 0 10px 0 10px;
+  }
+}

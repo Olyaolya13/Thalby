@@ -6,3 +6,16 @@
   margin-top: 163px;
   margin-bottom: 102px;
 }
+
+@media (max-width: 750px) {
+  .review__header {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 670px) {
+  .review__header {
+    margin-top: 120px;
+    font-size: 25px;
+  }
+}

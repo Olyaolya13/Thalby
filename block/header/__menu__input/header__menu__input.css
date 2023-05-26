@@ -1,0 +1,4 @@
+/* скрываем чекбокс */
+.header__menu__input {
+  display: none;
+}

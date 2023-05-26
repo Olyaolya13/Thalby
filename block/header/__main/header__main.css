@@ -9,3 +9,15 @@
     padding-left: 100px;
   }
 }
+
+@media (max-width: 600px) {
+  .header__main {
+    padding-left: 50px;
+  }
+}
+
+@media (max-width: 500px) {
+  .header__main {
+    padding-left: 20px;
+  }
+}

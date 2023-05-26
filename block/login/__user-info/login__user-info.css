@@ -9,3 +9,9 @@
 .login__user-info:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 420px) {
+  .login__user-info {
+    display: flex;
+  }
+}

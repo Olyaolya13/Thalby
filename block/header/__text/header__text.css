@@ -11,3 +11,9 @@
   transition: 0.2s linear;
   text-decoration: underline;
 }
+
+@media (max-width: 740px) {
+  .header__text {
+    font-size: 13px;
+  }
+}

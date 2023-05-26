@@ -5,3 +5,9 @@
   width: 366px;
   margin-bottom: 16px;
 }
+
+@media (max-width: 420px) {
+  .login__user-email {
+    width: 280px;
+  }
+}

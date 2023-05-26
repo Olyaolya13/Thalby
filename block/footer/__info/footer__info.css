@@ -9,3 +9,9 @@
     margin-bottom: 40px;
   }
 }
+
+@media (max-width: 620px) {
+  .footer__info {
+    justify-content: space-around;
+  }
+}

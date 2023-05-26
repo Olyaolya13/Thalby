@@ -2,6 +2,19 @@
   list-style-type: none;
   margin: 0;
   display: flex;
-  padding-left: 177px;
+  margin-left: 177px;
   max-height: 130px;
+  padding: 0;
+}
+
+@media (max-width: 815px) {
+  .footer__social {
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 620px) {
+  .footer__social {
+    margin-left: 0;
+  }
 }

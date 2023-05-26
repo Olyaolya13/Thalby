@@ -4,6 +4,7 @@
   gap: 110px 10px;
   justify-content: center;
   margin: 0;
+  padding: 0;
 }
 
 @media (max-width: 1095px) {
@@ -15,13 +16,11 @@
 @media (max-width: 750px) {
   .features__table {
     grid-template-columns: repeat(2, 200px);
-    gap: 50px;
   }
 }
 
 @media (max-width: 570px) {
   .features__table {
-    grid-template-columns: repeat(1, 200px);
-    gap: 50px;
+    grid-template-columns: repeat(2, 150px);
   }
 }

@@ -12,5 +12,6 @@
   .shop__atricle {
     text-align: center;
     margin-top: 15px;
+    padding-right: 0;
   }
 }

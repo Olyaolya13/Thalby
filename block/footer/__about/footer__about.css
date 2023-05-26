@@ -16,3 +16,9 @@
     height: 50vh;
   }
 }
+
+@media (max-width: 620px) {
+  .footer__about {
+    margin-right: 0;
+  }
+}
