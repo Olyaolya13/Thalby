@@ -9,11 +9,11 @@
 
 Thalby project
 Implemented layout of a one-page site.
-In the process of writing modal windows, adaptive layout
+In the process of writing modal windows.
 Used technologies:
 
 - HTML5
-- CSS3
+- Adaptive layout CSS3 max 1800px min 320px
 - Grid
 - Flex
 
